@@ -5,3 +5,5 @@ Agenda:
 - ISO / OSI
 - TCP / IP
 - Netzwerkgeräte
+- IPv4
+- Subnetting
