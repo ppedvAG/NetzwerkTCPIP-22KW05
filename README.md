@@ -7,3 +7,11 @@ Agenda:
 - Netzwerkgeräte
 - IPv4
 - Subnetting
+- IPv6
+- DNS
+    - erweitert: DNSSEC
+- Windows Server
+    - Grundlagen
+    - Installation
+- DHCP
+- IPAM
